@@ -6,6 +6,7 @@ body{
 /*Header*/
 #header{
     height: 100vh;
+ 
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url('img/comp1.jpg') no-repeat;
     background-position: center;
     background-size: cover;
@@ -207,6 +208,7 @@ height: 50px;
     position: sticky;
     z-index: 1;
     width: 80px;
+    
 }
 .social-icons ul{
     padding: initial;
@@ -219,7 +221,7 @@ height: 50px;
     padding-top: 6px;
     margin-top:5px;
     color:#fff;
-    background: #000;
+    background: orange;
 }
 .social-icons ul li:hover{
     padding-left: 30px;
